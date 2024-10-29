@@ -1,0 +1,9 @@
+log_cos/*
+*.png 
+*.gif
+*.pyc
+*.txt
+logs/*
+out/*
+step2_logs/*
+*.log
